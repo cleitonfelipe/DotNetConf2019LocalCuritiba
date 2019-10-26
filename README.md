@@ -20,3 +20,25 @@ Aplicação 4 | WPF .Net Core
 [Introducing .NET Core Windows Forms Designer Preview 1](https://devblogs.microsoft.com/dotnet/introducing-net-core-windows-forms-designer-preview-1/)
 
 [#dotnetconf no Twitter](https://twitter.com/search?q=%23dotnetconf)
+
+## Fotos
+
+![Foto 1](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0031.jpg)
+
+![Foto 2](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0032.jpg)
+
+![Foto 3](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0033.jpg)
+
+![Foto 4](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0034.jpg)
+
+![Foto 5](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0035.jpg)
+
+![Foto 6](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0036.jpg)
+
+![Foto 7](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0037.jpg)
+
+![Foto 8](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0039.jpg)
+
+![Foto 9](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0040.jpg)
+
+![Foto 10](https://github.com/cleitonfelipe/DotNetConf2019LocalCuritiba/blob/master/images/IMG-20191025-WA0041.jpg)
